@@ -1,2 +1,2 @@
 # Robot-Arm
-Three degree of robot arm capable of playing Tic Tac Toe
+Three degree of freedom robot arm capable of playing Tic Tac Toe
